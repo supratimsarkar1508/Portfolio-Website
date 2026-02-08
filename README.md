@@ -1,7 +1,6 @@
-# Modern Developer Portfolio
+# My Portfolio
 
-A fully responsive, production-ready personal portfolio website built with React, Tailwind CSS, and Framer Motion. This template is designed for developers, designers, and creatives to showcase their work, skills, and industry experience.
-
+A fully responsive, production-ready personal portfolio website built with React, Tailwind CSS, and Framer Motion. 
 ## Features
 
 - **💡 Clean & Modern Design**: A professional layout with a focus on typography and high-quality visuals.
